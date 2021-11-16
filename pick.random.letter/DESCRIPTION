@@ -1,0 +1,10 @@
+Package: pick.random.letter
+Type: Package
+Title: Picks a random letter
+Version: 0.1.0
+Author: Sean Finn
+Maintainer: <sfinn2@luc.edu>
+Description: This function randomly generates a random letter from the standard English alphabet (A-Z).
+License: NA
+Encoding: UTF-8
+LazyData: true
